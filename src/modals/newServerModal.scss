@@ -1,0 +1,40 @@
+.theme-dark{	
+	.footer-2gL1pp {
+        .footerTitle-2CYZch {
+            color: #fff;
+        }
+        .button-38aScr {
+            color: #fff;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.root-1gCeng {
+	.colorHeaderPrimary-26Jzh-,.colorHeaderSecondary-3Sp3Ft {
+		color: #fff;
+	}
+	.iconContainer-2B0ixr>svg>circle {
+		fill: $main-color;
+	}
+	.sampleLink-2NLvZg {
+		color: $main-color;
+		font-weight: 500;
+	}
+}
+
+// Server template categories
+.itemContainer-1LSFks {
+    background-color: $main-color;
+    &:hover {
+        background-color: $hover-color;
+    }
+    .itemText-sYKDFz {
+        color: #fff;
+    }
+    .itemArrow-lhAqIR {
+        visibility: hidden;
+    }
+}
